@@ -1,0 +1,33 @@
+{
+  "_notes": "Pixel-space [x, y] seed clicks for the SAM2 prompt on the annotation frame (frame 0 by default). Positive points must land on asphalt/track; negative points on grass, curb, barrier, HUD, or sky. These were calibrated for the Zandvoort headcam framing and must be recalibrated for any other camera setup or crop.",
+  "positive_points": [
+    [3095, 818],
+    [3385, 834],
+    [3667, 904],
+    [3338, 975],
+    [2844, 1007],
+    [2186, 983],
+    [2045, 834],
+    [2366, 889],
+    [2664, 873],
+    [2836, 857],
+    [3150, 1030],
+    [2476, 1117]
+  ],
+  "negative_points": [
+    [3048, 464],
+    [2452, 472],
+    [2186, 590],
+    [3918, 613],
+    [431, 354],
+    [775, 794],
+    [4568, 779],
+    [5148, 1062],
+    [5368, 314],
+    [6410, 361],
+    [1308, 125],
+    [3393, 110],
+    [6794, 1306],
+    [572, 1329]
+  ]
+}
